@@ -42,4 +42,4 @@ jobs:
       with:
         branch: gh-pages # The branch the action should deploy to.
 >>>>>>> dc3cb3eaef3163b7ef74a2dcfa6c4153d5b04523
-        folder: out # The folder the action should deploy.
+        folder: src # The folder the action should deploy.
