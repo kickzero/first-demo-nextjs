@@ -30,7 +30,7 @@ jobs:
     - run: npm run build --if-present
     - run: npm export
 <<<<<<< HEAD
-    - run: touch ./out/.nojekyll
+    - run: touch ./src/.pages
 
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@v4
